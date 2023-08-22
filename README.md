@@ -36,7 +36,6 @@
 
 -   **Frontend:** React for building the user interface and interactive components.
 -   **Backend:** Spring Boot for creating RESTful APIs, managing user accounts, and storing study materials.
--   **Database:** Use a relational database to store user data, notes, exam schedules, and Q&A discussions.
--   **API Communication:** Axios or Fetch API for communication between the frontend and backend.
+-   **Database:** PostgreSQL
 
 This combined platform will provide students with a holistic tool to manage their study materials, stay on top of their exam schedules, and engage in meaningful discussions with peers to enhance their understanding of the subjects.
